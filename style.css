@@ -1,11 +1,22 @@
+.title-boarder
+{
+  background-color: blue;
+  height: 10%;
+}
+.page-title
+{
+  text-align: center;
+  color: white;
+  
+}
 html, body {
-  width: 100%;
-  height: 100%;
+  width: 99.5%;
+  height: 98.5%;
+  background-color: black;
 }
 #Fruit-Punch-Gatorade
 {
   height: 90px;
-  
 }
 .Vanilla-Protein-Shake
 {
@@ -16,6 +27,7 @@ html, body {
 {
   height: 100px;
   width: 100px;
+  right: 200px;
 }
 #Starbucks-ColdBrew
 {
@@ -37,7 +49,7 @@ html, body {
 #Cadbury-Milk-Chocolate
 {
   height: 100px;
-  widt: 75px;
+  width: 75px;
 }
 #Hersheys-Cookies-and-Cream-Large
 {
@@ -51,5 +63,5 @@ html, body {
 #test
 {
   padding: 1em;
-  border: 5px solid black;
+  border: 5px solid red;
 }
